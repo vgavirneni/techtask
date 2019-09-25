@@ -6,7 +6,7 @@ include::../shared-doc/attributes.adoc[]
 :technologies: CDI, Servlet
 
 [abstract]
-The `helloworld` quickstart demonstrates the use of CDI and Servlet 3 and is a good starting point to verify {productName} is configured correctly.
+The `helloworld` quickstart example demonstrates the use of CDI and Servlet 3 and is a good starting point to verify {productName} is configured correctly.
 
 :standalone-server-type: default
 :archiveType: war
