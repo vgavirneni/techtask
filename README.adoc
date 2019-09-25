@@ -1,7 +1,7 @@
 include::../shared-doc/attributes.adoc[]
 
 = helloworld: Helloworld Example
-:author: Pete Muir
+:author: Venkata Gavirneni
 :level: Beginner
 :technologies: CDI, Servlet
 
